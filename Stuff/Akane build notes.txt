@@ -1,0 +1,10 @@
+This is just setup for my fans and shit
+Do NOT use Armoury Crate, I would rather kill myself
+In L-Connect 3, turn off motherboard sync for RGB and RPM
+Use OpenRGB Pipeline for RGB and Fan Control for (figure it out)
+Download the Lian Li plugin for Fan Control (don't use the ARGB version)
+In OpenRGB you can control the pump and fans using the detected Lian Li controllers
+In Fan Control you can control each channel of the hubs, however I think the pump can only be controlled if motherboard RPM sync is enabled
+Using motherboard sync means that you can't control each channel on your hubs, all sync ports will be the same and all the fans will be the same speed
+So basically if you want as much customizability as possible then don't use motherboard sync
+Theoretically this method would be good for Linux too
