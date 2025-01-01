@@ -14,7 +14,7 @@
   * Or run `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))` in PowerShell with administrator
 * Open the extracted folder and go to `Lyall-A-main > Scripts`
 * Run `Enable Windows highest mode.bat` as administrator to use higher resolution when booting
-* Run `Chocolatey script.bat` as administrator to install all applications, this doesn't include stuff like NVIDIA or any peripheral related stuff
+* Run `Install packages with Chocolatey.bat` as administrator to install all applications, this doesn't include stuff like NVIDIA or any peripheral related stuff
   * Wait for the script to finish installing everything
   * Some stuff will likely fail, install those manually
 * Install any other applications
@@ -61,6 +61,9 @@
       * Widgets: `Off`
     * **Taskbar behaviours**:
       * Taskbar alignment: `Left`
+  * **Accessibility**:
+    * **Keyboard**:
+      * Go to Sticky keys and Filter keys and turn off the keyboard shortcuts
 
 ## Application Settings
 * **File Explorer**:
