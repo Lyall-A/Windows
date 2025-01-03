@@ -42,6 +42,7 @@ ffmpeg
 git
 translucenttb
 nodejs
+bun
 python
 msiafterburner
 cinebench
