@@ -1,0 +1,41 @@
+# Necessities
+Brave.Brave - Brave Browser
+Vencord.Vesktop - Vesktop (Discord client)
+Discord.Discord - Discord
+Valve.Steam - Steam
+Spotify.Spotify - Spotify
+VB-Audio.Voicemeeter.Potato - Voicemeeter Potato
+OBSProject.OBSStudio - OBS Studio
+VideoLAN.VLC - VLC media player
+7zip.7zip - 7-Zip
+
+# Game Launchers
+EpicGames.EpicGamesLauncher - Epic Games Launcher
+
+# Hardware
+Rem0o.FanControl - FanControl
+OpenRGB.OpenRGB - OpenRGB
+Guru3D.Afterburner - MSI Afterburner
+Geeks3D.FurMark.2 - FurMark 2
+CrystalDewWorld.CrystalDiskMark.AoiEdition - CrystalDiskMark
+CrystalDewWorld.CrystalDiskInfo.AoiEdition - CrystalDiskInfo
+
+# Development
+Git.Git - Git
+Microsoft.VisualStudioCode - VS Code
+Gyan.FFmpeg - FFmpeg
+OpenJS.NodeJS - Node.js
+Oven-sh.Bun - Bun
+PuTTY.PuTTY - PuTTY
+MHNexus.HxD - HxD
+WiresharkFoundation.Wireshark - Wireshark
+
+# Windows customization
+winaero.tweaker - Winaero Tweaker
+CharlesMilette.TranslucentTB - TranslucentTB
+
+# Other VERY useful stuff
+LizardByte.Sunshine - Sunshine
+ShareX.ShareX - ShareX
+OpenVPNTechnologies.OpenVPNConnect - OpenVPN Connect
+SoftFever.OrcaSlicer - Orca Slicer
