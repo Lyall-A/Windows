@@ -37,7 +37,7 @@ For after Windows install, can be modified based on your needs
 * **Personalisation > Background > Personalize your background**: `Picture`
 * **Personalisation > Colours > Choose your mode**: `Dark`
 * **Personalisation > Dynamic Lighting > Use Dynamic Lighting on my devices**: `Off`
-* **Personalisation > Colours > Lock screen > Lock screen status**: `None`
+* **Personalisation > Lock screen > Lock screen status**: `None`
 * **Personalisation > Start**:
   * Show recently added apps: `On`
   * Show the most used apps: `On`
