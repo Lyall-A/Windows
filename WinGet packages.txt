@@ -39,3 +39,4 @@ LizardByte.Sunshine - Sunshine
 ShareX.ShareX - ShareX
 OpenVPNTechnologies.OpenVPNConnect - OpenVPN Connect
 SoftFever.OrcaSlicer - Orca Slicer
+UderzoSoftware.SpaceSniffer - SpaceSniffer
